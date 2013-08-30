@@ -1,4 +1,0 @@
-category: KDE
-requires: libgcc1 libkdecore5 libQtCore4 libQtGui4 libQtSvg4 libstdc++6
-sdesc: "KDE SVG viewer widget"
-ldesc: "KDE graphics suite"

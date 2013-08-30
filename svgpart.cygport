@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="svgpart"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE SVG viewer widget"
+DESCRIPTION="Part of the KDE graphics suite"
