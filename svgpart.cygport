@@ -1,7 +1,7 @@
-inherit kde4
+inherit kf5
 
 NAME="svgpart"
-VERSION=16.08.3
+VERSION=17.04.3
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE SVG viewer widget"
